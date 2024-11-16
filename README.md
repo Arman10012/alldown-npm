@@ -1,6 +1,6 @@
 ## Example 
 ```code
-const nayan = require('imran-alldl-media');
+const nayan = require('imran-alldl');
 
 nayan.alldown('url')
   .then(data => {
